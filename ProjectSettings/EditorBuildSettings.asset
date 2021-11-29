@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/10_StartScene.unity
+    guid: 814c83f61c0cc8147a7e6eb42ea405e4
+  - enabled: 1
+    path: Assets/Scenes/20_Stage1 0.unity
+    guid: 0b81f92244fd2374788d3702eee5b526
+  - enabled: 1
+    path: Assets/Scenes/20_Stage1 1.unity
+    guid: 0a72b8d37d5a90d488297999783a5968
+  - enabled: 1
+    path: Assets/Scenes/29_BossTalk1.unity
+    guid: 8fb0f63e421302f448cf34f47f505238
+  - enabled: 1
+    path: Assets/Scenes/30_BossTalk2.unity
+    guid: 841b4be846ed39b4b8e8807511c023d6
+  - enabled: 1
+    path: Assets/Scenes/39_1Boss_First.unity
+    guid: 0a54d1f57e96b3540a6cc43678aa14e3
+  - enabled: 1
+    path: Assets/Scenes/30_BossTalk3.unity
+    guid: 5ba7b816e7d74f046afd905317159d42
+  - enabled: 1
+    path: Assets/Scenes/40_1Boss_Second.unity
+    guid: f5a749b558bc3934682615069c640a90
+  - enabled: 1
+    path: Assets/Scenes/41_Ending.unity
+    guid: 9af3ee067fa61014da2e2cfba1877cf9
+  - enabled: 1
+    path: Assets/Scenes/42_StartScene.unity
+    guid: d87448a8e23f7184195abfa3046970b2
+  m_configObjects: {}

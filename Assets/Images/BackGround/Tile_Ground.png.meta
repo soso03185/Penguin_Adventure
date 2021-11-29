@@ -1,0 +1,371 @@
+fileFormatVersion: 2
+guid: b87dfe6488f291c4395fd95ae8763848
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -410512181302455478
+    second: Tile_Ground_0
+  - first:
+      213: -9118742295048326289
+    second: Tile_Ground_1
+  - first:
+      213: -7041207450404705616
+    second: Tile_Ground_2
+  - first:
+      213: 7395217197505562780
+    second: Tile_Ground_3
+  - first:
+      213: 6473684719066330934
+    second: Tile_Ground_4
+  - first:
+      213: -6667657942739113820
+    second: Tile_Ground_5
+  - first:
+      213: 2464571320366472777
+    second: Tile_Ground_6
+  - first:
+      213: -1143852910408331408
+    second: Tile_Ground_7
+  - first:
+      213: -2392912599757318900
+    second: Tile_Ground_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 960
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tile_Ground_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -238.35938, y: 480}
+        - {x: -462, y: 196}
+        - {x: -480, y: -479.76556}
+        - {x: 480, y: -479.76556}
+        - {x: 480, y: 480}
+      physicsShape:
+      - - {x: -234.14062, y: 480}
+        - {x: -480, y: 210.70317}
+        - {x: -480, y: -479.76556}
+        - {x: 480, y: -479.76556}
+        - {x: 480, y: 480}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a431f7998519d4af0800000000000000
+      internalID: -410512181302455478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Ground_1
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1920
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6370512238b37180800000000000000
+      internalID: -9118742295048326289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Ground_2
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1920
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 303.5157, y: 480}
+        - {x: -479.76556, y: 480}
+        - {x: -479.76556, y: -479.76556}
+        - {x: 480, y: -479.76556}
+        - {x: 480, y: 157}
+      physicsShape:
+      - - {x: 307, y: 480}
+        - {x: -479.76556, y: 480}
+        - {x: -479.76556, y: -479.76556}
+        - {x: 480, y: -480}
+        - {x: 480, y: 147}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba2bc8312b984e90800000000000000
+      internalID: -7041207450404705616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Ground_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 956
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -480, y: 480}
+        - {x: -480, y: -479.99997}
+        - {x: 480, y: -479.99997}
+        - {x: 480, y: 480}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98cd2e0cd611a660800000000000000
+      internalID: 7395217197505562780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Ground_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637b2d3f3f527d950800000000000000
+      internalID: 6473684719066330934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Ground_5
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 960
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -479.76556, y: 480}
+        - {x: -479.76556, y: -479.99997}
+        - {x: 477.89066, y: -479.99997}
+        - {x: 480, y: -478.59372}
+        - {x: 480, y: 480}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a829378d68b773a0800000000000000
+      internalID: -6667657942739113820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Ground_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -480, y: 480}
+        - {x: -480, y: -480}
+        - {x: 480, y: -480}
+        - {x: 480, y: 480}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e1f0ade8ae33220800000000000000
+      internalID: 2464571320366472777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Ground_7
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f80df96d73020f0800000000000000
+      internalID: -1143852910408331408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Ground_8
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 960
+        height: 960
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -479.76556, y: 480}
+        - {x: -479.76556, y: -480}
+        - {x: 480, y: -480}
+        - {x: 480, y: 480}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0598e03baaaaced0800000000000000
+      internalID: -2392912599757318900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
